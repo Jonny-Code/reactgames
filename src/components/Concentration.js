@@ -91,13 +91,9 @@ export default function Concentration() {
               </h5>
             </div>
             <div className="col text-center bg-success border shadow-lg p-3 m-1">
-              <h4 className="text-white mt-3">How fast are you?</h4>
+              <h4 className="text-white mt-3">Improve your memory</h4>
             </div>
           </div>
-          <h1 className="text-white display-4 text-center border">
-            Timer:
-            <span className="badge badge-dark mb-2 timerOut">0</span>
-          </h1>
         </div>
       </div>
 

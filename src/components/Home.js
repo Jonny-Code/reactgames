@@ -24,12 +24,9 @@ export default function Home() {
           <div className="col-md pt-2 pb-2 shadow-sm m-3 gameCard">
             <h2 className="text-center p-3 border">
               <Link className="badge badge-dark" to="/games/Concentration">
-                Concentration
+                Play Concentration
               </Link>
             </h2>
-          </div>
-          <div className="col-md pt-2 pb-4 shadow-sm m-3 gameCard">
-            <h6>second game</h6>
           </div>
         </div>
       </div>
