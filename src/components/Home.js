@@ -15,7 +15,7 @@ export default function Home() {
               Javascript development with Node, React, Bootstrap and more
             </h3>
             <p className="lead my-3 text-white">
-              Below are some games programmed in JavaScript
+              Below is a game programmed in JavaScript
             </p>
           </div>
         </div>

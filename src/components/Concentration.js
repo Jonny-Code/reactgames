@@ -91,7 +91,7 @@ export default function Concentration() {
               </h5>
             </div>
             <div className="col text-center bg-success border shadow-lg p-3 m-1">
-              <h4 className="text-white mt-3">Improve your memory</h4>
+              <h4 className="text-white mt-2">Improve your memory</h4>
             </div>
           </div>
         </div>
