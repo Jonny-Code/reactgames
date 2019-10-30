@@ -3,7 +3,7 @@
 
 [Concentration Game on Heroku](https://react-concentration-game.herokuapp.com/)
 
-This app 
+This app uses Twitter's Bootstrap and React to make a simple game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
