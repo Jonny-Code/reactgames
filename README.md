@@ -1,7 +1,9 @@
 
 ## Link to heroku app
 
-[Concentration Game on Heroku](https://powerful-ocean-61754.herokuapp.com)
+[Concentration Game on Heroku](https://react-concentration-game.herokuapp.com/)
+
+This app 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
